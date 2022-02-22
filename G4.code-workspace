@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+		},
+		"search.exclude": {
+		},
+		"files.associations": {
+			"chrono": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"valarray": "cpp",
+			"*.ipp": "cpp"
+		},
+	}
+}
